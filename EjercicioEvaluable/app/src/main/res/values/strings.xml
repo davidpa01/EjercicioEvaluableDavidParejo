@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjercicioEvaluable</string>
+    <string name="btnWeb">Abrir página web</string>
+    <string name="btnTelefono">Llamada de teléfono</string>
+    <string name="btnMaps">Google Maps</string>
+    <string name="btnFoto">Tomar foto</string>
+    <string name="btnCorreo">Mandar Correo</string>
+</resources>
