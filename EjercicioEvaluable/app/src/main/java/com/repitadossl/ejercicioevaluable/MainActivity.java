@@ -22,29 +22,23 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void paginaWeb(View view){
-        Intent intent = new Intent(this,MainActivity2.class);
-        String message = "https://www.google.es/";
-        intent.putExtra(EXTRA_MESSAGE,message);
+        Intent intent = new Intent(this,claseUrl.class);
         startActivity(intent);
     }
     public void llamadaTelf(View view){
-        Intent i = new Intent(Intent.ACTION_CALL, Uri.parse("tel:958112233"));
-        startActivity(i);
+        Intent intent = new Intent(this,llamadaTelf.class);
+        startActivity(intent);
     }
     public void googleMaps(View view){
-        Intent intent = new Intent(this,MainActivity2.class);
-        String message = "https://www.google.com/maps";
-        intent.putExtra(EXTRA_MESSAGE,message);
+        Intent intent = new Intent(this,coordenadas.class);
         startActivity(intent);
     }
     public void tomarFoto(View view){
-        Intent i = new Intent("android.media.action.IMAGE_CAPTURE");
-        startActivity(i);
+        Intent intent = new Intent("android.media.action.IMAGE_CAPTURE");
+        startActivity(intent);
     }
     public void enviarCorreo(View view){
-        Intent intent = new Intent(this,MainActivity2.class);
-        String message = "https://www.google.com/intl/es/gmail/about/";
-        intent.putExtra(EXTRA_MESSAGE,message);
+        Intent intent = new Intent(this,correo.class);
         startActivity(intent);
     }
 

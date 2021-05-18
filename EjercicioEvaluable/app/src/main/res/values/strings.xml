@@ -5,4 +5,15 @@
     <string name="btnMaps">Google Maps</string>
     <string name="btnFoto">Tomar foto</string>
     <string name="btnCorreo">Mandar Correo</string>
+    <string name="twText">Introduce una url. Ejemplo:</string>
+    <string name="twEjemplo">https://www.ejemplo.es</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="twTlf">Introduce un número de telefono</string>
+    <string name="btnLlamar">Llamar</string>
+    <string name="twcoorgeodesicas">Introduzca Las coordenadas.</string>
+    <string name="btnCoordenadas">Enviar Coordenadas</string>
+    <string name="twCorreo">Introduzca la cuenta de correo al que desea mandarle el email</string>
+    <string name="twAsunto">Introduzca el asunto del email</string>
+    <string name="twCuerpo">Introduzca el cuerpo del email</string>
+    <string name="btnMandarCorreo">Mandar Correo</string>
 </resources>

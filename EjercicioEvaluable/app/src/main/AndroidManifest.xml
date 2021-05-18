@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.repitadossl.ejercicioevaluable">
-    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.CALL_PHONE" />
 
     <application
@@ -11,13 +12,23 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.EjercicioEvaluable">
-        <activity android:name=".MainActivity2"
+        <activity android:name=".correo"></activity>
+        <activity android:name=".coordenadas" />
+        <activity android:name=".llamada" />
+        <activity android:name=".llamadaTelf" />
+        <activity
+            android:name=".claseUrl"
             android:parentActivityName=".MainActivity">
-
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity"/>
-
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name=".MainActivity2"
+            android:parentActivityName=".claseUrl">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".claseUrl" />
         </activity>
         <activity android:name=".MainActivity">
             <intent-filter>
