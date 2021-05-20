@@ -5,21 +5,27 @@
 <img  src="./images/diseño.PNG"/></br></br>
 <img  src="./images/vista.PNG"/></br></br>
 la segunda parte que es la actividad que se ejecuta cuando se pulsa el boton de abrir pagina web</br>
-<img  src="./images/diseño2.PNG"/></br></br>
-<img  src="./images/vista2.PNG"/></br></br>
-la tercera parte que es la actividad que se ejecuta cuando se pulsa el boton de llamar por telefono</br>
 <img  src="./images/diseño3.PNG"/></br></br>
 <img  src="./images/vista3.PNG"/></br></br>
-la cuarta parte que es la actividad que se ejecuta cuando se pulsa el boton de google maps</br>
+
+la tercera parte que es la actividad que se ejecuta cuando se pulsa el boton de llamar por telefono</br>
 <img  src="./images/diseño4.PNG"/></br></br>
 <img  src="./images/vista4.PNG"/></br></br>
-la quinta parte que es la actividad que se ejecuta cuando se pulsa el boton de tomar foto</br>
-<img  src="./images/diseño5.PNG"/></br></br>
-<img  src="./images/vista5.PNG"/></br></br>
-la sexta parte que es la actividad que se ejecuta cuando se pulsa el boton de mandar correo</br>
+
+la cuarta parte que es la actividad que se ejecuta cuando se pulsa el boton de google maps</br>
 <img  src="./images/diseño6.PNG"/></br></br>
 <img  src="./images/vista6.PNG"/></br></br>
+
+la sexta parte que es la actividad que se ejecuta cuando se pulsa el boton de mandar correo</br>
+<img  src="./images/diseño5.PNG"/></br></br>
+<img  src="./images/vista5.PNG"/></br></br>
+
+El diseño y vista del webView</br>
+<img  src="./images/diseño2.PNG"/></br></br>
+<img  src="./images/vista2.PNG"/></br></br>
 </p>
+
+
 <h2>2º El codigo de la aplicación🐱‍🏍✨</h2>
 <p>El codigo de la aplicación tambien se divide en diferentes fases:</p>
  <h3>1ª Fase: 🥇🥈🥉</h3> 
